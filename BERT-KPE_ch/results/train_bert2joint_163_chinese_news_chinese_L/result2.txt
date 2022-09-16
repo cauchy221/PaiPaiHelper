@@ -1,0 +1,170 @@
+{"doc_id": 13000, "predicted_keyphrases": ["百度", "人民搜索", "邓亚萍", "搜索", "人民"], "keyphrases": ["人民搜索", "邓亚萍"]}
+{"doc_id": 13004, "predicted_keyphrases": ["出版物", "汉语", "词语", "词汇", "汉语出版物"], "keyphrases": ["版署", "非中非外"]}
+{"doc_id": 13013, "predicted_keyphrases": ["菲律宾", "菲佣荒", "香港", "内地保姆", "保姆"], "keyphrases": ["内地保姆", "香港"]}
+{"doc_id": 13015, "predicted_keyphrases": ["事故", "煤矿", "新疆", "冒顶", "矿井"], "keyphrases": ["乌鲁木齐", "煤矿"]}
+{"doc_id": 13016, "predicted_keyphrases": ["降水", "旱情", "山西", "降温", "冷空气"], "keyphrases": ["山西省", "旱情"]}
+{"doc_id": 13018, "predicted_keyphrases": ["溃坝", "追责", "锡矿", "银岩", "银岩锡矿"], "keyphrases": ["尾矿库", "溃坝", "紫金"]}
+{"doc_id": 13023, "predicted_keyphrases": ["收购计划", "天空电视台", "欧盟委员会", "英国", "天空"], "keyphrases": ["天空电视台", "新闻集团", "英国天空"]}
+{"doc_id": 13034, "predicted_keyphrases": ["黄山", "迷路", "驴友", "探险", "坠崖"], "keyphrases": ["复旦大学", "探险", "驴友"]}
+{"doc_id": 13036, "predicted_keyphrases": ["日本政府", "防卫大纲", "中国", "防卫计划", "大纲"], "keyphrases": ["日本", "防卫大纲"]}
+{"doc_id": 13039, "predicted_keyphrases": ["中国", "解放军部队", "空中加油", "法国", "空中加油能力"], "keyphrases": ["空中加油"]}
+{"doc_id": 13040, "predicted_keyphrases": ["驻韩美军", "驻", "坦克", "主战坦克", "装甲车"], "keyphrases": ["驻韩美军"]}
+{"doc_id": 13042, "predicted_keyphrases": ["朝鲜", "西海五岛", "西海", "韩国", "避难"], "keyphrases": ["西海五岛"]}
+{"doc_id": 13043, "predicted_keyphrases": ["中国陆军", "中国", "陆军", "现代化", "坦克"], "keyphrases": ["中国陆军"]}
+{"doc_id": 13045, "predicted_keyphrases": ["稀土", "中国稀土", "出口", "中国", "日本"], "keyphrases": ["中国", "稀土"]}
+{"doc_id": 13046, "predicted_keyphrases": ["朝鲜", "中国", "半岛", "朝", "韩国"], "keyphrases": ["中国", "朝韩"]}
+{"doc_id": 13049, "predicted_keyphrases": ["塔利班", "阿富汗", "巴基斯坦", "美军", "武装分子"], "keyphrases": ["巴基斯坦", "美军"]}
+{"doc_id": 13050, "predicted_keyphrases": ["钓鱼岛", "渔政船", "巡逻船", "巡逻", "渔政"], "keyphrases": ["钓鱼岛"]}
+{"doc_id": 13053, "predicted_keyphrases": ["印度", "俄罗斯", "访问", "核能", "安理会常任理事国"], "keyphrases": ["俄罗斯", "军售", "印度"]}
+{"doc_id": 13059, "predicted_keyphrases": ["钓鱼岛", "日本", "录像", "海上保安厅", "尖阁诸岛"], "keyphrases": ["撞船", "钓鱼岛"]}
+{"doc_id": 13061, "predicted_keyphrases": ["护航编队", "中国海军", "护航", "中国", "海军"], "keyphrases": ["护航编队"]}
+{"doc_id": 13063, "predicted_keyphrases": ["钓鱼岛", "拍卖", "海国记", "抄本", "中国"], "keyphrases": ["钓鱼岛"]}
+{"doc_id": 13065, "predicted_keyphrases": ["红沿河", "核电站", "红", "红沿河核电站", "核"], "keyphrases": ["中国", "核反应堆"]}
+{"doc_id": 13068, "predicted_keyphrases": ["航母", "中国海军", "解放军海军", "中国", "解放军"], "keyphrases": ["中国海军"]}
+{"doc_id": 13069, "predicted_keyphrases": ["韩国", "朝鲜战争", "韩", "抗美援朝战争", "遗骸"], "keyphrases": ["朝鲜战争", "遗体", "韩国"]}
+{"doc_id": 13070, "predicted_keyphrases": ["印度", "俄罗斯", "新德里", "俄印", "俄罗斯总统"], "keyphrases": ["俄罗斯", "印度", "访问"]}
+{"doc_id": 13072, "predicted_keyphrases": ["救助", "救助船", "远洋救助", "中国", "直升机"], "keyphrases": ["远洋救助船"]}
+{"doc_id": 13074, "predicted_keyphrases": ["军人保障卡", "军人", "定型", "保障卡", "工资卡"], "keyphrases": ["军人保障卡"]}
+{"doc_id": 13075, "predicted_keyphrases": ["美军", "雷达站", "澳大利亚", "窃听", "监视"], "keyphrases": ["雷达站"]}
+{"doc_id": 13078, "predicted_keyphrases": ["驱逐舰", "英国", "英国海军", "海试", "英国皇家海军"], "keyphrases": ["45型驱逐舰", "英国海军"]}
+{"doc_id": 13079, "predicted_keyphrases": ["钓鱼岛", "撞船", "日本", "撞", "录像"], "keyphrases": ["撞船事件"]}
+{"doc_id": 13080, "predicted_keyphrases": ["相撞", "韩国", "中国渔民", "中国", "巡逻船"], "keyphrases": ["海岸警卫队", "渔船", "韩国海岸"]}
+{"doc_id": 13081, "predicted_keyphrases": ["钓鱼岛", "钓鱼岛条例", "日本", "外交部", "条例"], "keyphrases": ["钓鱼岛"]}
+{"doc_id": 13082, "predicted_keyphrases": ["反舰弹道导弹", "航母", "中国反舰弹道导弹", "反舰", "中国"], "keyphrases": ["反舰弹道导弹"]}
+{"doc_id": 13084, "predicted_keyphrases": ["大蒜", "炒蒜", "炒", "蒜商", "蒜价"], "keyphrases": ["价格", "大蒜"]}
+{"doc_id": 13086, "predicted_keyphrases": ["钢铁行业", "黑户", "钢铁", "违规产能", "中国钢铁行业"], "keyphrases": ["钢铁", "黑户"]}
+{"doc_id": 13089, "predicted_keyphrases": ["维基解密", "瑞典", "维基", "阿桑奇", "维基解密创始人"], "keyphrases": ["阿桑奇"]}
+{"doc_id": 13090, "predicted_keyphrases": ["师范生", "段家荣", "大学", "段家", "免费"], "keyphrases": ["师范生"]}
+{"doc_id": 13091, "predicted_keyphrases": ["福利院", "泼粪", "老人", "出逃", "饥寒"], "keyphrases": ["福利院"]}
+{"doc_id": 13093, "predicted_keyphrases": ["智障劳工", "智障", "残疾人", "劳工", "渠县"], "keyphrases": ["劳工", "智障"]}
+{"doc_id": 13096, "predicted_keyphrases": ["纳税", "中国", "税种", "征税", "中国人"], "keyphrases": ["纳税"]}
+{"doc_id": 13097, "predicted_keyphrases": ["大学", "教育体制", "南方", "南方科技大学", "南方科技"], "keyphrases": ["南方科技大学"]}
+{"doc_id": 13098, "predicted_keyphrases": ["黑社会", "黑帮", "山口组", "日本", "黑帮组织"], "keyphrases": ["山口组"]}
+{"doc_id": 13100, "predicted_keyphrases": ["医院", "张孝骞", "泰斗", "现代医学", "李振翩"], "keyphrases": ["医院", "腐败"]}
+{"doc_id": 13101, "predicted_keyphrases": ["通胀", "财商", "理财", "断层", "财富"], "keyphrases": ["通胀"]}
+{"doc_id": 13104, "predicted_keyphrases": ["平遥古城", "平遥", "古城", "涨价", "门票"], "keyphrases": ["平遥古城"]}
+{"doc_id": 13107, "predicted_keyphrases": ["村委会", "主任", "选举", "村民", "主任选举"], "keyphrases": ["乡村", "选举"]}
+{"doc_id": 13109, "predicted_keyphrases": ["留守儿童", "留守", "金寨县", "儿童", "农村留守儿童"], "keyphrases": ["儿童", "留守"]}
+{"doc_id": 13113, "predicted_keyphrases": ["于建嵘", "于", "下岗工人", "官员", "讲座"], "keyphrases": ["于建嵘"]}
+{"doc_id": 13114, "predicted_keyphrases": ["白宫", "奥巴马", "白宫生活", "国会", "无药"], "keyphrases": ["奥巴马", "白宫"]}
+{"doc_id": 13119, "predicted_keyphrases": ["发动机", "反推力装置", "反推力", "试车", "中航"], "keyphrases": ["中航工业"]}
+{"doc_id": 13121, "predicted_keyphrases": ["发动机", "太行", "航空发动机", "张恩", "航空"], "keyphrases": ["发动机", "太行"]}
+{"doc_id": 13126, "predicted_keyphrases": ["巴基斯坦", "弹道导弹", "核弹头", "导弹", "中程弹道导弹"], "keyphrases": ["导弹", "巴基斯坦"]}
+{"doc_id": 13127, "predicted_keyphrases": ["警备艇", "中国渔船", "韩国", "渔船", "相撞"], "keyphrases": ["中国", "倾覆", "渔船", "韩国"]}
+{"doc_id": 13129, "predicted_keyphrases": ["懒汉病", "懒汉", "细菌", "牧民", "布病"], "keyphrases": ["布病"]}
+{"doc_id": 13130, "predicted_keyphrases": ["喷气式战机", "t-50", "印度", "俄罗斯", "隐身战斗机"], "keyphrases": ["印度", "战斗机"]}
+{"doc_id": 13131, "predicted_keyphrases": ["韩军", "韩国", "演习", "实弹演习", "空中实弹演习"], "keyphrases": ["朝韩边境"]}
+{"doc_id": 13134, "predicted_keyphrases": ["巴基斯坦", "印度", "战机", "克什米尔", "军用飞机"], "keyphrases": ["克什米尔", "巴基斯坦", "战机"]}
+{"doc_id": 13151, "predicted_keyphrases": ["国资委", "央企", "国新", "中投二号", "重组"], "keyphrases": ["国资委", "央企", "重组"]}
+{"doc_id": 13168, "predicted_keyphrases": ["发改委", "汽油", "油价", "物价局", "南京市"], "keyphrases": ["南京", "油价"]}
+{"doc_id": 13170, "predicted_keyphrases": ["美军", "美国", "同性恋", "性取向", "奥巴马"], "keyphrases": ["奥巴马", "废除", "政策"]}
+{"doc_id": 13178, "predicted_keyphrases": ["信用卡", "银行", "积分", "调整", "信用卡积分"], "keyphrases": ["信用卡", "积分"]}
+{"doc_id": 13183, "predicted_keyphrases": ["站长", "停职", "四川", "救助站", "渠县"], "keyphrases": ["四川", "救助站", "渠县"]}
+{"doc_id": 13199, "predicted_keyphrases": ["中国", "战斗机", "原型机", "俄罗斯", "t-50"], "keyphrases": ["t-50"]}
+{"doc_id": 13200, "predicted_keyphrases": ["巡逻舰艇", "海警", "巡逻", "中国", "中国海警"], "keyphrases": ["中国海警"]}
+{"doc_id": 13205, "predicted_keyphrases": ["中韩撞", "中韩撞船", "韩军", "中国", "军演"], "keyphrases": ["中韩撞船事件"]}
+{"doc_id": 13207, "predicted_keyphrases": ["反导", "中国", "美国大使馆", "大使", "美国"], "keyphrases": ["中国反导"]}
+{"doc_id": 13208, "predicted_keyphrases": ["中国海军", "中国", "海军", "军事", "中国海军能力"], "keyphrases": ["中国海军"]}
+{"doc_id": 13213, "predicted_keyphrases": ["a320", "天津", "a320飞机", "飞机", "空中客车"], "keyphrases": ["a320飞机"]}
+{"doc_id": 13214, "predicted_keyphrases": ["杀人", "羁押", "村民", "释放", "文山壮族苗族自治州"], "keyphrases": ["取保候审", "富宁县", "寨子"]}
+{"doc_id": 13215, "predicted_keyphrases": ["航天器", "俄罗斯", "太空", "太空互联网", "航天"], "keyphrases": ["太空互联网"]}
+{"doc_id": 13228, "predicted_keyphrases": ["海南", "赌场", "澳门", "赌博业", "迟福林"], "keyphrases": ["海南", "赌场", "迟福林"]}
+{"doc_id": 13229, "predicted_keyphrases": ["新疆", "伊犁", "离校", "自焚", "复读生"], "keyphrases": ["复读生", "死亡", "自焚"]}
+{"doc_id": 13240, "predicted_keyphrases": ["意大利", "智利", "使馆", "爆炸", "炸弹"], "keyphrases": ["使馆", "意大利", "爆炸"]}
+{"doc_id": 13260, "predicted_keyphrases": ["访美", "胡锦涛", "美", "美国白宫", "美中"], "keyphrases": ["美国", "胡锦涛"]}
+{"doc_id": 13270, "predicted_keyphrases": ["意大利", "智利", "使馆", "爆炸", "炸弹"], "keyphrases": ["使馆", "意大利", "爆炸"]}
+{"doc_id": 13276, "predicted_keyphrases": ["韩国", "朝鲜中央通讯社", "军演", "联合军演", "朝鲜"], "keyphrases": ["韩国军演"]}
+{"doc_id": 13277, "predicted_keyphrases": ["右派", "索赔", "粮食政策", "粮食", "改造"], "keyphrases": ["右派", "改造"]}
+{"doc_id": 13278, "predicted_keyphrases": ["离岛", "海南", "免税", "海南岛", "海南省"], "keyphrases": ["海南"]}
+{"doc_id": 13286, "predicted_keyphrases": ["护航编队", "海盗", "中国海军", "美国海军", "中国籍"], "keyphrases": ["护航编队"]}
+{"doc_id": 13291, "predicted_keyphrases": ["沈飞", "中航工业", "中航", "重点型号", "试飞"], "keyphrases": ["重点型号"]}
+{"doc_id": 13293, "predicted_keyphrases": ["枭龙", "巴基斯坦", "巴基斯坦空军", "战斗机", "空军"], "keyphrases": ["巴基斯坦", "枭龙"]}
+{"doc_id": 13295, "predicted_keyphrases": ["日本", "潜艇", "中朝潜艇", "中国", "监视"], "keyphrases": ["中朝潜艇"]}
+{"doc_id": 13296, "predicted_keyphrases": ["印度海军", "俄罗斯", "印度", "航母", "维克拉马迪"], "keyphrases": ["俄罗斯", "印度", "航母"]}
+{"doc_id": 13305, "predicted_keyphrases": ["志愿者", "彭帅", "打人", "掌", "掌掴"], "keyphrases": ["彭帅", "打人", "母亲"]}
+{"doc_id": 13306, "predicted_keyphrases": ["深圳", "医疗", "医疗教育", "教育", "浮躁"], "keyphrases": ["城市", "心态", "浮躁"]}
+{"doc_id": 13314, "predicted_keyphrases": ["三峡", "移民", "搬迁", "地质移民", "移民搬迁"], "keyphrases": ["地质", "移民"]}
+{"doc_id": 13321, "predicted_keyphrases": ["中国渔船", "韩国政府", "渔船", "韩国", "中国渔民"], "keyphrases": ["渔民", "韩国", "高官"]}
+{"doc_id": 13326, "predicted_keyphrases": ["深圳", "地铁", "票价", "发改委", "方案"], "keyphrases": ["发改委", "地铁", "票价方案"]}
+{"doc_id": 13332, "predicted_keyphrases": ["宜万铁路", "宜万", "铁路", "青藏铁路", "造价"], "keyphrases": ["宜万铁路", "造价", "青藏铁路"]}
+{"doc_id": 13338, "predicted_keyphrases": ["借读费", "小学", "教育部", "北京", "学生"], "keyphrases": ["借读费", "小学", "规章"]}
+{"doc_id": 13357, "predicted_keyphrases": ["中国渔船", "韩国政府", "渔船", "韩国", "中国渔民"], "keyphrases": ["中国渔民", "渔船", "韩国"]}
+{"doc_id": 13359, "predicted_keyphrases": ["火灾", "国美", "金华", "电器商场", "商场"], "keyphrases": ["国美", "浙江金华", "火灾"]}
+{"doc_id": 13361, "predicted_keyphrases": ["f-22", "f-22战斗机", "生锈", "战斗机", "除锈"], "keyphrases": ["f-22"]}
+{"doc_id": 13362, "predicted_keyphrases": ["航母", "核动力航母", "核动力", "中国", "中国政府"], "keyphrases": ["中国", "航母"]}
+{"doc_id": 13363, "predicted_keyphrases": ["渔船", "韩国政府", "韩国", "中国渔船", "中国渔民"], "keyphrases": ["渔船", "韩国"]}
+{"doc_id": 13365, "predicted_keyphrases": ["朝鲜", "韩国", "朝鲜半岛", "实弹射击训练", "训练"], "keyphrases": ["克制", "朝鲜媒体", "爱好和平"]}
+{"doc_id": 13372, "predicted_keyphrases": ["中国渔船", "相撞", "韩国", "中国", "渔船"], "keyphrases": ["海岸警卫队", "渔民", "韩方"]}
+{"doc_id": 13377, "predicted_keyphrases": ["摇号", "治堵", "北京", "登记", "车辆"], "keyphrases": ["北京", "治堵"]}
+{"doc_id": 13379, "predicted_keyphrases": ["深圳", "地铁", "票价", "发改委", "方案"], "keyphrases": ["发改委", "地铁", "票价方案"]}
+{"doc_id": 13384, "predicted_keyphrases": ["印度", "爆炸", "通信卫星", "运载火箭", "gsat"], "keyphrases": ["印度", "发射升空", "通信卫星"]}
+{"doc_id": 13387, "predicted_keyphrases": ["高铁", "武广高铁", "武广", "上座率", "武汉"], "keyphrases": ["武广高铁"]}
+{"doc_id": 13389, "predicted_keyphrases": ["武警部队", "调整", "武警", "命令", "地方总队"], "keyphrases": ["人事调整", "武警部队"]}
+{"doc_id": 13391, "predicted_keyphrases": ["拆迁", "北大", "拆迁条例", "商业开发", "公共利益"], "keyphrases": ["公共利益", "拆迁条例"]}
+{"doc_id": 13403, "predicted_keyphrases": ["印度", "爆炸", "通信卫星", "运载火箭", "gsat"], "keyphrases": ["印度", "发射", "运载火箭"]}
+{"doc_id": 13404, "predicted_keyphrases": ["招聘", "灰色技能", "用人单位", "灰色", "崔力夫"], "keyphrases": ["技能", "灰色", "用人单位"]}
+{"doc_id": 13415, "predicted_keyphrases": ["印度", "卫星", "爆炸", "火箭", "火箭发射"], "keyphrases": ["卫星", "印度", "火箭", "爆炸"]}
+{"doc_id": 13416, "predicted_keyphrases": ["大飞机", "c919", "大飞机c919", "客机", "大"], "keyphrases": ["c919", "下线", "机身"]}
+{"doc_id": 13417, "predicted_keyphrases": ["远望六号", "嫦娥二号", "测量船", "远望", "嫦娥"], "keyphrases": ["嫦娥二号", "测量船"]}
+{"doc_id": 13419, "predicted_keyphrases": ["护航编队", "海军", "反海盗", "徐州", "海盗"], "keyphrases": ["护航编队", "演练"]}
+{"doc_id": 13420, "predicted_keyphrases": ["核潜艇", "印度", "印度潜艇", "潜艇", "中国"], "keyphrases": ["印度", "核潜艇"]}
+{"doc_id": 13428, "predicted_keyphrases": ["青菜", "日本", "农药", "农药残留", "heartfood"], "keyphrases": ["农药", "日本", "青菜"]}
+{"doc_id": 13430, "predicted_keyphrases": ["蚁族", "住建部", "住", "房屋租赁", "分割"], "keyphrases": ["合租", "房屋租赁", "租赁管理"]}
+{"doc_id": 13431, "predicted_keyphrases": ["寒潮", "天气", "广东", "霜冻", "降温"], "keyphrases": ["寒潮", "降温", "霜冻"]}
+{"doc_id": 13438, "predicted_keyphrases": ["演习", "韩国", "射击演习", "射击", "韩国军队"], "keyphrases": ["射击", "海域", "演习"]}
+{"doc_id": 13447, "predicted_keyphrases": ["重庆", "唱红", "唱红打黑", "幸福感", "城市"], "keyphrases": ["唱红打黑", "幸福感", "重庆"]}
+{"doc_id": 13448, "predicted_keyphrases": ["住", "住建部", "姜万荣", "出租", "姜"], "keyphrases": ["分割出租", "房屋租赁"]}
+{"doc_id": 13451, "predicted_keyphrases": ["地震", "北川", "纪念馆", "地震纪念馆", "裂缝"], "keyphrases": ["北川地震", "纪念馆"]}
+{"doc_id": 13452, "predicted_keyphrases": ["凤凰", "丑闻", "坠楼", "湖南", "李刚"], "keyphrases": ["新闻事件", "真相"]}
+{"doc_id": 13453, "predicted_keyphrases": ["假蛋", "人造鸡蛋", "鸡蛋", "假鸡蛋", "假"], "keyphrases": ["人造鸡蛋"]}
+{"doc_id": 13456, "predicted_keyphrases": ["温家宝", "房价", "保障性住房", "房价问题", "住房"], "keyphrases": ["房价", "温家宝"]}
+{"doc_id": 13457, "predicted_keyphrases": ["加息", "央行", "上调", "存贷款", "人民币"], "keyphrases": ["加息", "央行"]}
+{"doc_id": 13465, "predicted_keyphrases": ["诽谤", "陪酒", "实习", "中原工学院", "毕业证"], "keyphrases": ["空乘", "诽谤", "陪酒"]}
+{"doc_id": 13468, "predicted_keyphrases": ["上访", "钱云会", "碾压", "工程车", "寨"], "keyphrases": ["上访", "碾压"]}
+{"doc_id": 13474, "predicted_keyphrases": ["暴风雪", "美国", "航班", "袭击", "暴风雪袭击"], "keyphrases": ["暴风雪", "紧急状态", "美国"]}
+{"doc_id": 13478, "predicted_keyphrases": ["枭龙战机", "巴基斯坦", "火控雷达", "雷达", "枭龙"], "keyphrases": ["枭龙"]}
+{"doc_id": 13479, "predicted_keyphrases": ["朝鲜半岛", "中国海军", "航母", "美国", "航空母舰"], "keyphrases": ["朝鲜半岛"]}
+{"doc_id": 13481, "predicted_keyphrases": ["退税", "海南", "购物", "离境退税", "离境"], "keyphrases": ["海南", "退税"]}
+{"doc_id": 13485, "predicted_keyphrases": ["中国海军", "发动机", "国产发动机", "海军", "中国"], "keyphrases": ["中国海军"]}
+{"doc_id": 13489, "predicted_keyphrases": ["航空发动机", "中国", "航空", "发动机", "莫斯科"], "keyphrases": ["航空发动机"]}
+{"doc_id": 13490, "predicted_keyphrases": ["枭龙战机", "f-16", "枭龙", "无人机", "中国"], "keyphrases": ["枭龙"]}
+{"doc_id": 13495, "predicted_keyphrases": ["白宫", "奥巴马", "美国", "军事预算", "军事"], "keyphrases": ["五角大楼", "预算"]}
+{"doc_id": 13500, "predicted_keyphrases": ["中国海军", "护航", "中国海军舰艇编队", "中国", "护航任务"], "keyphrases": ["中国海军"]}
+{"doc_id": 13501, "predicted_keyphrases": ["码头", "韩国政府", "扩建", "舰艇", "延坪岛"], "keyphrases": ["延坪岛"]}
+{"doc_id": 13509, "predicted_keyphrases": ["民政工作", "民政部", "李立国", "民政工作会议", "李"], "keyphrases": ["李立国", "民政工作", "社会力量"]}
+{"doc_id": 13512, "predicted_keyphrases": ["国防部长", "访华", "韩国", "梁光烈", "国防部长官金"], "keyphrases": ["国防部长"]}
+{"doc_id": 13517, "predicted_keyphrases": ["张维迎", "官员", "卸任", "经济学家", "人民公敌"], "keyphrases": ["张维迎"]}
+{"doc_id": 13523, "predicted_keyphrases": ["上访", "钱云会", "碾压", "工程车", "寨"], "keyphrases": ["上访", "碾压"]}
+{"doc_id": 13542, "predicted_keyphrases": ["罚款", "发票", "国务院", "上限", "伪造"], "keyphrases": ["伪造", "发票", "罚款"]}
+{"doc_id": 13543, "predicted_keyphrases": ["爆炸", "四川", "宜宾", "南门", "公交车"], "keyphrases": ["爆炸"]}
+{"doc_id": 13553, "predicted_keyphrases": ["煤电", "中煤协", "煤企", "电价", "煤价"], "keyphrases": ["利润", "煤价", "煤电", "电价", "电荒"]}
+{"doc_id": 13555, "predicted_keyphrases": ["豆腐", "武汉", "人造假豆腐", "人造假", "工厂"], "keyphrases": ["人造假豆腐"]}
+{"doc_id": 13561, "predicted_keyphrases": ["反舰弹道导弹", "反舰", "美军", "中国", "东风-21d"], "keyphrases": ["反舰弹道导弹"]}
+{"doc_id": 13562, "predicted_keyphrases": ["朝鲜", "韩国", "演说", "朝鲜开战", "开战"], "keyphrases": ["李明博"]}
+{"doc_id": 13563, "predicted_keyphrases": ["访华", "盖茨", "美国", "国防部长", "梁光烈"], "keyphrases": ["盖茨", "访华"]}
+{"doc_id": 13575, "predicted_keyphrases": ["航母", "中国航母", "舰载机", "中国", "海军"], "keyphrases": ["中国航母"]}
+{"doc_id": 13587, "predicted_keyphrases": ["沈阳军区", "野战卫勤", "野战", "卫勤", "演练"], "keyphrases": ["沈阳军区"]}
+{"doc_id": 13596, "predicted_keyphrases": ["国防白皮书", "韩国", "朝鲜", "国防", "白皮书"], "keyphrases": ["国防白皮书", "朝鲜", "韩国"]}
+{"doc_id": 13599, "predicted_keyphrases": ["地皮", "广东", "烂尾", "土地", "烂尾地"], "keyphrases": ["土地", "闲置"]}
+{"doc_id": 13603, "predicted_keyphrases": ["坍塌", "地铁", "杭州", "公诉", "事故"], "keyphrases": ["地铁", "坍塌", "杭州"]}
+{"doc_id": 13620, "predicted_keyphrases": ["稀土", "商务部", "出口配额", "稀土出口配额", "降低"], "keyphrases": ["出口配额", "商务部", "稀土"]}
+{"doc_id": 13622, "predicted_keyphrases": ["占座", "李小萌", "省长", "官员", "央视"], "keyphrases": ["占座", "飞机"]}
+{"doc_id": 13633, "predicted_keyphrases": ["黄豆", "豆腐", "合成豆腐", "人工合成豆腐", "南京市"], "keyphrases": ["合成豆腐"]}
+{"doc_id": 13634, "predicted_keyphrases": ["中国燃气", "停牌", "燃气", "中国", "股价"], "keyphrases": ["中国燃气"]}
+{"doc_id": 13640, "predicted_keyphrases": ["独唱团", "独唱", "停刊", "解散", "韩寒"], "keyphrases": ["停刊", "独唱团", "韩寒"]}
+{"doc_id": 13641, "predicted_keyphrases": ["央视", "管彤", "祁玉江", "书记", "县委书记"], "keyphrases": ["县委书记", "熊抱", "管彤"]}
+{"doc_id": 13642, "predicted_keyphrases": ["航母", "反航母导弹", "外交部", "美国", "反航母"], "keyphrases": ["东亚", "外交部", "航母"]}
+{"doc_id": 13646, "predicted_keyphrases": ["三公消费", "三公", "因公出国", "消费", "公务用车"], "keyphrases": ["公务用车", "压缩", "因公出国"]}
+{"doc_id": 13648, "predicted_keyphrases": ["自首", "最高法", "最高", "立功", "逃逸"], "keyphrases": ["最高法", "自首", "逃逸"]}
+{"doc_id": 13653, "predicted_keyphrases": ["钓鱼岛", "中国海军", "宫古岛", "中国", "日本自卫队"], "keyphrases": ["中国海军"]}
+{"doc_id": 13655, "predicted_keyphrases": ["印度空军", "巴基斯坦", "印度", "五代战机", "巴基斯坦空军"], "keyphrases": ["巴基斯坦空军"]}
+{"doc_id": 13656, "predicted_keyphrases": ["和平", "解放军", "梁光烈", "中国", "和平环境"], "keyphrases": ["梁光烈"]}
+{"doc_id": 13659, "predicted_keyphrases": ["何智民", "智障", "拐卖", "关中", "老汉"], "keyphrases": ["劳工", "智障"]}
+{"doc_id": 13662, "predicted_keyphrases": ["日本", "采购", "f-2", "f-x", "战斗机"], "keyphrases": ["战斗机", "日本"]}
+{"doc_id": 13663, "predicted_keyphrases": ["印度", "中国", "中印关系", "巴基斯坦", "纠纷"], "keyphrases": ["中印关系"]}
+{"doc_id": 13664, "predicted_keyphrases": ["间谍罪", "间谍", "朝鲜", "韩国", "韩国间谍"], "keyphrases": ["韩国间谍"]}
+{"doc_id": 13675, "predicted_keyphrases": ["天宫一号", "神舟八号", "神舟", "杰出青年", "天宫"], "keyphrases": ["天宫一号"]}
+{"doc_id": 13676, "predicted_keyphrases": ["间谍", "伊朗", "摩萨德", "绞死", "以色列"], "keyphrases": ["以色列", "伊朗", "间谍"]}
+{"doc_id": 13678, "predicted_keyphrases": ["朝鲜", "韩国", "弃核", "六方会谈", "李明博"], "keyphrases": ["六方会谈", "朝鲜", "李明博"]}
+{"doc_id": 13682, "predicted_keyphrases": ["上访", "钱云会", "土地问题", "土地", "征地"], "keyphrases": ["钱云会"]}
+{"doc_id": 13687, "predicted_keyphrases": ["地震", "震源", "瓦努阿图", "南太平洋", "岛国"], "keyphrases": ["南太平洋", "地震", "瓦努阿图"]}
